@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K?style=social)](https://github.com/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K)
 [![Forks](https://img.shields.io/github/forks/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K?style=social)](https://github.com/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K)
 [![Issues](https://img.shields.io/github/issues/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K)](https://github.com/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K/issues)
-[![License](https://img.shields.io/github/license/AJ22122003/ML_Credit-card-fraud-detection_Ajinkya.K)](LICENSE)
+
 
 **✨ Overview**
 
